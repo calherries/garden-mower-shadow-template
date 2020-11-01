@@ -1,0 +1,4 @@
+* Description
+
+This example demonstrates how *garden-mower* can ingest tailwindcss and output custom selectors.
+The example uses shadow-cljs. The example copies from the example at: [[https://tailwindcss.com/components/cards]].
